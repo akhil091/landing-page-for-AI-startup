@@ -1502,3 +1502,7 @@ p {
   display: none; }
   .back-to-top:hover {
     color: #fff; }
+
+    .modal-backdrop{
+      z-index:0 !important;
+    }
